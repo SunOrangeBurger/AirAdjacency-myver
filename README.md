@@ -1,6 +1,8 @@
 # Airline Route Management (C)
 
-A minimal and intuitive command-line program in C to manage airline routes between cities. It allows viewing predefined cities, adding/removing directed routes, checking connectivity, and displaying the route map using a unidirectional graph representation.
+A minimal and intuitive command-line program in C to manage airline routes between cities. It allows viewing
+predefined cities, adding/removing directed routes, checking connectivity, and displaying the route map using
+a unidirectional graph representation.
 
 ## Features
 
